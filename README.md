@@ -1,7 +1,7 @@
 # 🔁 Loopify — NurtureBot X 🤖
 
 ### 💡 AI-Powered Chatbot for Smart Lead Automation  
-Built with ❤️ at **AMUHACKS Hackathon 2025**
+Built with ❤️ at **SHARPAITHON Hackathon 2025**
 
 ---
 
